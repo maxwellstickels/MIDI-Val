@@ -20,5 +20,7 @@ BASH Scripting:
  * https://linuxsimply.com/bash-scripting-tutorial/operator/arithmetic-operators/random-number/
  * https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux
 
+Python Programming:
+ * https://www.geeksforgeeks.org/print-colors-python-terminal/
 
-*_This is just the sources I recall, not a comprehensive list. There were another couple of websites I stumbled upon early into the project for medieval music rules + MIDI formatting that I got notes and/or ideas from, but neglected to store the links for. I also referenced a few of the BASH scripts I made for my current internship._
+*_This is just the sources I recall, not a comprehensive list. There were another couple of websites I stumbled upon early into the project for medieval music rules + MIDI formatting that I got notes and/or ideas from, but neglected to store the links for and have not found. I also referenced a few of the BASH scripts I made for my current internship._
