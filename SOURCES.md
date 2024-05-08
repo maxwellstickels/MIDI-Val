@@ -25,7 +25,7 @@ Python Programming:
  * https://www.geeksforgeeks.org/command-line-arguments-in-python/
  * https://www.geeksforgeeks.org/how-to-convert-int-to-bytes-in-python/
  * https://www.w3schools.com/python/python_file_remove.asp
- * https://www.digitalocean.com/community/tutorials/how-to-get-file-size-in-python
+ * https://www.turing.com/kb/how-to-get-the-size-of-file-in-python
  * https://www.geeksforgeeks.org/python-append-content-of-one-text-file-to-another/
  * https://www.geeksforgeeks.org/python-write-bytes-to-file/
  * https://stackoverflow.com/questions/51898959/how-to-print-python-byte-variable
